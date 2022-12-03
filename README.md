@@ -1,6 +1,6 @@
 <h1>NestJs - Mapeando objetos com AutoMapper</h1>
 <p>
-  Nas maiorias das aplicações que montamos, sempre há a necessidade de mapear um objeto que contém os dados de origem para um outro objeto de destino.
+  Na maioria das aplicações que montamos, sempre há a necessidade de mapear um objeto que contém os dados de origem para um outro objeto de destino.
 </p>
 <p>
   Um exemplo disso é quando temos uma classe do tipo Entidade e queremos retornar os dados dela através de um DTO específico.
